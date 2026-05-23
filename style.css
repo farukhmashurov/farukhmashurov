@@ -403,3 +403,14 @@ main {
     text-decoration: none;
   }
 }
+
+
+.timeline li > div,
+.media-list li > div {
+  min-width: 0;
+}
+
+.timeline li strong,
+.media-list li strong {
+  color: #181512;
+}
